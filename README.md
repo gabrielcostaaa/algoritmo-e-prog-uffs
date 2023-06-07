@@ -1,2 +1,2 @@
-# sistema-para-academia
-trabalho final algoritmo e prog
+# projetos-python
+Repositório feito para armazenar meus projetos em Python
